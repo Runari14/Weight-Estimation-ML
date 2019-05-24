@@ -1,0 +1,74 @@
+
+# Python bytecode
+*.pyc
+
+# Weight files
+bin/
+
+# Sample image data
+sample_img/*.jpg
+!sample_img/sample_*.jpg
+sample_img/out/*
+
+# Annotated test results
+results/
+
+# Intermediate training data
+backup/
+tfnet/yolo/parse-history.txt
+tfnet/yolo/*.parsed
+*.txt
+!requirements*.txt
+*.pb
+/profile
+/test.py
+
+# Built cython files
+darkflow/cython_utils/*.pyd
+darkflow/cython_utils/*.c
+
+#egg-info
+darkflow.egg-info/
+
+#Other build stuff
+build/
+
+#TensorBoard logs
+summary/
+
+#Built graphs
+built_graph/
+
+#Training checkpoints
+ckpt/*
+
+#pytest cache
+.cache/
+
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# Application specific files
+venv
+node_modules
+.sass-cache
+.idea
+
+# Exclude Dataset folder
+Dataset
