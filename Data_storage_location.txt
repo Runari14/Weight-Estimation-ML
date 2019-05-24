@@ -1,0 +1,9 @@
+This file contains the url to data that is too large for github to accept as well as the dataset FoodX
+
+
+FoodX: https://uiano-my.sharepoint.com/:f:/g/personal/runari14_uia_no/EphxexkD_o5PptD-87qDuSsBwM5VWrljEjPtlfTtAA5reQ?e=3twpwA
+
+Various data, saved models, training files, etc: https://uiano-my.sharepoint.com/:f:/g/personal/runari14_uia_no/EjFUxLs5ag1OmxAWuiEe8rQBhI9qNGjD9nYWVugXTgzh6g?e=f3P56g
+
+
+
